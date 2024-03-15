@@ -1,0 +1,20 @@
+[
+    {
+        "Album Title": "RRR",
+        "Artist": "ntr",
+        "Year Released": 2022,
+        "Songs/Tracks": ["Nattu Nattu", "Breathe", "On the Run", "Time", "Doshi Doshi"]
+    },
+    {
+        "Album Title": "Thriller",
+        "Artist": "Michael Jackson",
+        "Year Released": 1982,
+        "Songs/Tracks": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"]
+    },
+    {
+        "Album Title": "Pushpa",
+        "Artist": "Allu Arjun",
+        "Year Released": 2021,
+        "Songs/Tracks": ["ButtaBomma", "srivalli srivalli", "Maxwell's Silver Hammer", "Oh! Darling", "Octopus's Garden"]
+    }
+]
